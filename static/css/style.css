@@ -1,0 +1,705 @@
+#image {
+    width: 100%;
+    height: 900px;
+}
+
+#section1 {
+    background-color: rgb(8,28,36);
+    height: 1700px;
+}
+
+#transparent {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(8,28,36);
+}
+
+#container {
+    height: 2500px;
+}
+
+#text {
+    position: absolute;
+    color: white;
+    font-size: 60px;
+    margin-top: -720px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 310px;
+}
+
+#travelbox {
+    margin-top: -600px;
+    margin-left: 450px;
+    position: absolute;
+    height: 100px;
+    width: 925px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+#button {
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 110px;
+    height: 50px;
+    width: 270px;
+    background-color: rgb(25, 57, 70)  ;
+    color: white;
+    border-radius: 10px;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+
+#search {
+    height: 50px;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#destination {
+    color: rgb(146, 146, 146);
+    position: absolute;
+    font-size: 20px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+#location {
+    color: rgb(59, 109, 93);
+    position: absolute;
+    font-size: 20px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 130px;
+    margin-top: 45px;
+}
+
+#money {
+    height: 45px;
+    margin-top: 25px;
+    position: absolute;
+    margin-left: 350px;
+}
+
+#price {
+    color: rgb(146, 146, 146);
+    position: absolute;
+    font-size: 20px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+#cost {
+    color: rgb(59, 109, 93);
+    position: absolute;
+    font-size: 20px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 400px;
+    margin-top: 45px;
+}
+
+#calendar {
+    height: 45px;
+    margin-top: 25px;
+    position: absolute;
+    margin-left: 630px;
+    background-color: white;
+}
+
+#date {
+    color: rgb(146, 146, 146);
+    position: absolute;
+    font-size: 20px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 690px;
+    margin-top: 20px;
+}
+
+#day {
+    color: rgb(59, 109, 93);
+    position: absolute;
+    font-size: 20px;
+    font-family:  'Arial Narrow Bold';
+    margin-left: 690px;
+    margin-top: 45px;
+}
+
+#nav {
+    position: absolute;
+}
+
+#logo {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(93, 148, 141);
+    position: absolute;
+    width: 400px;
+    letter-spacing: 5px;
+}
+
+#offer {
+    text-decoration: none;
+    /* color: rgb(93, 148, 141); */
+    color: white;
+    position: absolute;
+    margin-left: 1170px;
+    width: 200px;
+    font-family:  'Arial Narrow Bold';
+}
+
+#about {
+    text-decoration: none;
+    /* color: rgb(93, 148, 141); */
+    color: white;
+    position: absolute;
+    margin-left: 1300px;
+    width: 200px;
+    font-family:  'Arial Narrow Bold';
+}
+
+#discover {
+    text-decoration: none;
+    /* color: rgb(93, 148, 141); */
+    color: white;
+    position: absolute;
+    margin-left: 1400px;
+    width: 200px;
+    font-family:  'Arial Narrow Bold';
+}
+
+#login {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color:rgb(93, 148, 141) ;
+    color: white;
+    border-radius: 10px;
+    margin-left: 1640px;
+    font-family:  'Arial Narrow Bold';
+
+}
+
+#signup {
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color:rgb(93, 148, 141) ;
+    color: white;
+    border-radius: 10px;
+    margin-left: 1500px;
+    font-family:  'Arial Narrow Bold';
+}
+
+#position{
+    /* background-color: rgb(21, 65, 87); */
+    position: absolute;
+    margin-top: 30px;
+}
+
+#maui {
+    height: 570px;
+    width: 400px;
+    position: absolute;
+    margin-left: 700px;
+    border-radius: 10px;
+
+}
+#bali {
+    position: absolute;
+    height: 480px;
+    width: 400px;
+    margin-left: 1120px;
+    border-radius: 10px;
+}
+#rome {
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+#france {
+    position: absolute;
+    height: 420px;
+    width: 400px;
+    margin-left: 1120px;
+    border-radius: 10px;
+    margin-top: 500px;
+}
+#japan {
+    position: absolute;
+    height: 330px;
+    width: 400px;
+    margin-left: 700px;
+    border-radius: 10px;
+    margin-top: 590px;
+}
+#sanfrancisco {
+    position: absolute;
+    height: 500px;
+    width: 400px;
+    margin-left: 280px;
+    border-radius: 10px;
+    margin-top: 420px;
+}
+
+#mauitext {
+    color: white;
+    margin-left: 950px;
+    margin-top: 10px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(93, 148, 141);
+    border-radius: 20px;
+    width: 140px;
+    text-align: center;
+}
+#balitext {
+    color: white;
+    margin-left: 1360px;
+    margin-top: 10px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(93, 148, 141);
+    border-radius: 20px;
+    width: 150px;
+    text-align: center;
+}
+#rometext {
+    color: white;
+    margin-left: 295px;
+    margin-top: 10px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(93, 148, 141);
+    border-radius: 20px;
+    width: 140px;
+    text-align: center;
+}
+#paristext {
+    color: white;
+    margin-left: 1130px;
+    margin-top: 505px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(93, 148, 141);
+    border-radius: 20px;
+    width: 140px;
+    text-align: center;
+}
+#japantext {
+    color: white;
+    margin-left: 715px;
+    margin-top: 600px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(93, 148, 141);
+    border-radius: 20px;
+    width: 210px;
+    text-align: center;
+}
+#sanfranciscotext {
+    color: white;
+    margin-left: 295px;
+    margin-top: 430px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: rgb(93, 148, 141);
+    border-radius: 20px;
+    width: 250px;
+    text-align: center;
+}
+
+#popular {
+    font-size: 50px;
+    color: rgb(69, 116, 104);
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
+}
+#popular1 {
+    font-size: 25px;
+    color: rgb(183, 224, 214);
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: -50px;
+    padding-bottom: 15px;
+}
+
+#box1 {
+    height: 175px;
+    width: 375px;
+    position: absolute;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    margin-top: -15px;
+    margin-left: 320px;
+}
+#box2 {
+    height: 175px;
+    width: 375px;
+    position: absolute;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    margin-left: 710px;
+    margin-top: -15px;
+}
+#box3{
+    height: 175px;
+    width: 375px;
+    position: absolute;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    margin-top: -15px;
+    margin-left: 1100px;
+
+}
+
+#hotels {
+    height: 30px;
+    position: absolute;
+    margin-left: 245px;
+    margin-top: -120px;
+}
+
+#airplane {
+    height: 55px;
+}
+
+.car {
+    width: 30px;
+    position: absolute;
+    margin-left: 90px;
+}
+
+#boxtext1 {
+    color: rgb(25, 57, 70);
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-top: px;
+    margin-left: 20px;
+}
+
+#container1 {
+    width: 300px;
+    height: 35px;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 13px;
+}
+#container2 {
+    width: 300px;
+    height: 35px;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+#container3 {
+    width: 300px;
+    height: 35px;
+    background-color: white;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+#boxtext2-1 {
+    color: black;
+    font-family:  'Arial Narrow Bold';
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: -20px;
+    margin-top: 5px;
+    position: absolute;
+}
+#boxtext2-2 {
+    color: black;
+    font-family:  'Arial Narrow Bold';
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 5px;
+    position: absolute;
+}
+#boxtext2-3 {
+    color: black;
+    font-family:  'Arial Narrow Bold';
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 5px;
+    position: absolute;
+}
+
+
+#boxtext3 {
+    color: white;
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#boxtext5 {
+    color: white;
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+#book1 {
+    height: 30px;
+    width: 150px;
+    border: none;
+    color: white;
+    background-color: rgb(25, 57, 70)  ;
+    border-radius: 13px;
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 10px;
+    text-decoration: none;
+    outline: 0;
+}
+#book2 {
+    height: 30px;
+    width: 150px;
+    border: none;
+    color: white;
+    background-color: rgb(25, 57, 70)  ;
+    border-radius: 13px;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 10px;
+    text-decoration: none;
+    outline: 0;
+}
+#book3 {
+    height: 30px;
+    width: 150px;
+    border: none;
+    color: white;
+    background-color: rgb(25, 57, 70)  ;
+    border-radius: 13px;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 10px;
+    text-decoration: none;
+    outline: 0;
+}
+
+#colorchange {
+    color: rgb(30, 71, 61);
+    position: absolute;
+    font-family:  'Arial Narrow Bold';
+    font-size: 20px;
+    margin-left: 110px;
+    margin-top: -45px;
+}
+
+#search2 {
+    height: 25px;
+    position: absolute;
+    margin-left: -135px;
+    margin-top: 5px;
+}
+
+#calendar2 {
+    height: 25px;
+    position: absolute;
+    margin-left: -135px;
+    margin-top: 5px;
+}
+
+#hotel2 {
+    height: 20px;
+    position: absolute;
+    margin-left: -135px;
+    margin-top: 5px;
+}
+
+#guide1 {
+    width: 280px;
+    height: 330px;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 310px;
+}
+#guide2 {
+    width: 280px;
+    height: 330px;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 610px;
+}
+#guide3 {
+    width: 280px;
+    height: 330px;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 910px;
+}
+#guide4 {
+    width: 280px;
+    height: 330px;
+    background-color: rgb(72, 101, 109);
+    border-radius: 25px;
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 1210px;
+}
+
+#one {
+    height: 130px;
+    border-radius: 100px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+#two {
+    height: 130px;
+    width: 130px;
+    border-radius: 100px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+#three {
+    height: 130px;
+    width: 130px;
+    border-radius: 100px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+#four {
+    height: 130px;
+    border-radius: 100px;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+
+#guidetext {
+    position: absolute;
+    margin-top: -630px;
+    margin-left: 770px;
+    color: rgb(69, 116, 104);
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+
+#guidetext2 {
+    position: absolute;
+    margin-top: -570px;
+    margin-left: 700px;
+    color: rgb(192, 228, 219);
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+#guidetext3 {
+    position: absolute;
+    margin-top: -540px;
+    margin-left: 645px;
+    color: rgb(173, 209, 200);
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+#text1 {
+    color: white;
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-left: 60px;
+    margin-bottom: -20px;
+}
+#text1-1 {
+    color: rgb(160, 160, 160);
+    font-family:  'Arial Narrow Bold';
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+#text2 {
+    color: white;
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-left: 80px;
+    margin-bottom: -20px;
+}
+#text2-1 {
+    color: rgb(160, 160, 160);
+    font-family:  'Arial Narrow Bold';
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+#text3 {
+    color: white;
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-left: 80px;
+    margin-bottom: -20px;
+}
+#text3-1{
+    color: rgb(160, 160, 160);
+    font-family:  'Arial Narrow Bold';
+    font-size: 20px;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+#text4{
+    color: white;
+    font-family:  'Arial Narrow Bold';
+    font-size: 30px;
+    margin-left: 90px;
+    margin-bottom: -20px;
+}
+#text4-1 {
+    color: rgb(160, 160, 160);
+    font-family:  'Arial Narrow Bold';
+    font-size: 20px;
+    margin-left: 98px;
+    margin-top: 20px;
+}
+
+#fb {
+    height: 25px;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+#insta{
+    height: 25px;
+    margin-top: 30px;
+}
+#linked {
+    height: 25px;
+    margin-top: 30px;
+}
+
+#guides {
+    margin-top: 30px;
+}
